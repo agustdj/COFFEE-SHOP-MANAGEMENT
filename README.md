@@ -1,2 +1,2 @@
-# COFFEE SHOP 
+# Coffee Shop
 A basic application using .NET framework
